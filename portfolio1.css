@@ -1,0 +1,56 @@
+hr {
+    height: 3px;
+    background-color: black;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    text-decoration: underline dotted blue;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+body {
+    font-size: 20px;
+    color: #799575; /*This color is like a military green*/
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
+
+h3 {
+    display: inline-block;
+    text-align: center;
+    background-color: #799575;
+    padding: 3px 10px;
+    margin: 5px;
+    font-size: 1.75rem;
+    color: white;
+    border: 1px solid black;
+}
+
+p {
+    width: 500px;
+}
+
+.intro {
+    position: relative;
+    display: inline-block;
+    margin-left: 150px;
+}
+
+img {
+    border: 1px solid black;
+}
+
+.social {
+    border: 1px solid LightGrey;
+    padding: 40px 0px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+  }
+  
+ 

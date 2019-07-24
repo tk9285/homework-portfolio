@@ -1,0 +1,56 @@
+.first_hr {
+    height: 7px;
+    background-color: black;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    text-decoration: underline dotted blue;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+.second_hr {
+    height: 2px;
+    background-color: black;
+}
+
+h3 {
+    display: inline-block;
+    text-align: center;
+    background-color: #799575;
+    padding: 3px 10px;
+    margin: 5px;
+    font-size: 1.75rem;
+    color: white;
+    border: 1px solid black;
+}
+
+.experience_body {
+    width: 1200px;
+    font-size: 20px;
+    font-family: Georgia, serif;
+}
+
+.portfolio_body {
+    font-size: 20px;
+}
+
+.education_body {
+    font-size: 20px;
+}
+
+img {
+    border: 5px solid black;
+    height: 600px;
+    width: 750px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
